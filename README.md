@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/benjaminsoo">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Student</a>
+<h1>Hi, I'm Ben! <br/><a href="https://github.com/benjaminsoo">Programmer</a>, <a href="https://www.linkedin.com/in/benjamin-soo/">Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
