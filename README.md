@@ -3,4 +3,4 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Arduino and C++</b>
-  - [Battle Disc 2.0: Miniaturized Ping Pong](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Battle Disc 2.0: Miniaturized Ping Pong](https://github.com/benjaminsoo/Arduino-Pong-Game)
